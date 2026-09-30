@@ -11,7 +11,7 @@ student_name = input("Enter your name:")
 student_age = int(input("Enter your age:"))
 
 # Ask for the student's branch.
-student_branch = int(input("Enter your branch:"))
+student_branch = (input("Enter your branch:"))
 
 # Ask for the student's city.
 student_city = int(input("Enter your city:"))
