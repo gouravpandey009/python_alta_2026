@@ -14,7 +14,7 @@ student_age = int(input("Enter your age:"))
 student_branch = (input("Enter your branch:"))
 
 # Ask for the student's city.
-student_city = int(input("Enter your city:"))
+student_city = (input("Enter your city:"))
 # Display the student's profile in a neat format.
 print("\n----- STUDENT PROFILE CARD -----")
 
